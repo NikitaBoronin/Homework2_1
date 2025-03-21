@@ -1,4 +1,3 @@
-
 namespace Homework1
 {
     public partial class Gallery : Form
